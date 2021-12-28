@@ -7,10 +7,6 @@ http://c.biancheng.net/data_structure/
 
 ```
 .net中的集合
-集合命令空间：
-
-命令空间：类型逻辑上的分类
-
 System.Collections  非泛型集合
 
 System.Collections.Generic 泛型集合
