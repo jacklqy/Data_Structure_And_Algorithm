@@ -1,0 +1,14 @@
+E:\DataStructure\bin\Debug\net8.0\DataStructure.exe
+E:\DataStructure\bin\Debug\net8.0\DataStructure.deps.json
+E:\DataStructure\bin\Debug\net8.0\DataStructure.runtimeconfig.json
+E:\DataStructure\bin\Debug\net8.0\DataStructure.dll
+E:\DataStructure\bin\Debug\net8.0\DataStructure.pdb
+E:\DataStructure\obj\Debug\net8.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfoInputs.cache
+E:\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfo.cs
+E:\DataStructure\obj\Debug\net8.0\DataStructure.csproj.CoreCompileInputs.cache
+E:\DataStructure\obj\Debug\net8.0\DataStructure.dll
+E:\DataStructure\obj\Debug\net8.0\refint\DataStructure.dll
+E:\DataStructure\obj\Debug\net8.0\DataStructure.pdb
+E:\DataStructure\obj\Debug\net8.0\DataStructure.genruntimeconfig.cache
+E:\DataStructure\obj\Debug\net8.0\ref\DataStructure.dll
